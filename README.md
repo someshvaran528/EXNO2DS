@@ -38,7 +38,7 @@ OUTPUT
 # CODING
 df.info()
 
-#OUTPUT
+# OUTPUT
 <img width="537" height="468" alt="image" src="https://github.com/user-attachments/assets/da5e6a6b-c9e8-4605-bf33-2603d959090e" />
 
 # CODING
